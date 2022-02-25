@@ -1,0 +1,321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sion shining in gospel-glory, or, The churches advancement and saints engagement in gospel-times with some hints of thankfulnesse for Englands deliverance from the Popish Plot of the powder treason : being the summe of a sermon preached at St Michaels in Cornhill, London, upon the 5th of Novemb. 1651 / by T.W.</title>
+            <author>T. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65411</idno>
+            <idno type="STC">Wing W130</idno>
+            <idno type="STC">ESTC R26300</idno>
+            <idno type="EEBO-CITATION">09418372</idno>
+            <idno type="OCLC">ocm 09418372</idno>
+            <idno type="VID">43035</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43035)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1319:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sion shining in gospel-glory, or, The churches advancement and saints engagement in gospel-times with some hints of thankfulnesse for Englands deliverance from the Popish Plot of the powder treason : being the summe of a sermon preached at St Michaels in Cornhill, London, upon the 5th of Novemb. 1651 / by T.W.</title>
+                  <author>T. W.</author>
+               </titleStmt>
+               <extent>[4], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Miller,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Isaiah LX, 1 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43035:1"/>
+            <pb facs="tcp:43035:1"/>
+            <p>SION SHINING IN Goſpel-Glory: OR, The Churches <hi>Advancement</hi> and Saints <hi>Engagement</hi> in Goſpel-times; With ſome Hints of <hi>Thankefullneſſe</hi> for Englands <hi>Deliverance</hi> from the Popiſh Plot of the <hi>Powder Treaſon.</hi> Being the ſumme of a SERMON Preached at S<hi rend="sup">t</hi> 
+               <hi>Michaels</hi> in Cornhill, <hi>London,</hi> upon the 5<hi rend="sup">th</hi> of <hi>Novemb.</hi> 1651.</p>
+            <p>By <hi>T. W.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>PROV. 4.18.</hi>
+               </bibl>
+               <p>The path of the juſt is as the ſhining light, that ſhi<g ref="char:EOLhyphen"/>neth more and more to the perfect day.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. Miller,</hi> and are to be Sold at the Sign of the Gun in Ivy-Lane, 1652.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:43035:2"/>
+            <pb facs="tcp:43035:2"/>
+            <head>To the early <hi>Bud</hi> of reall <hi>Piety</hi> M<hi rend="sup">rs</hi> E. H. encreaſe of <hi>Grace</hi> on <hi>Earth,</hi> and a <hi>Crown</hi> of <hi>Glory</hi> in <hi>Heaven.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He ſweet <hi>Diſcoveries</hi> you were plea<g ref="char:EOLhyphen"/>ſed to make unto me of a <hi>gracious work</hi> upon your <hi>Soul,</hi> have exceed<g ref="char:EOLhyphen"/>ingly engag'd my <hi>Heart</hi> dearly to <hi>love</hi> you, as a <hi>Childe</hi> of <hi>God,</hi> high<g ref="char:EOLhyphen"/>ly to <hi>prize</hi> you as a <hi>Pearl</hi> in <hi>Grace,</hi> and really to <hi>reſpect</hi> you as an <hi>Heir</hi> of <hi>Glory.</hi> Truly I cannot but with deareſt affections embrace the <hi>Darlings</hi> of Gods <hi>Boſom,</hi> and heartily love them whom God ſets his <hi>Heart</hi> upon, and Chriſts ſets as a <hi>Seal</hi> upon his own <hi>Heart.</hi> The <hi>Impreſſion</hi> of Gods <hi>Image</hi> upon the Soul, renders it truly <hi>amiable</hi> and <hi>excellent</hi> to a ſpirituall <hi>eye. Sweet Saint!</hi> Me thinks when I ſee you, I cannot but look upon you (with admiration of the <hi>Riches</hi> of Gods <hi>Grace</hi>) as one whom I ſhall once behold blest with the <hi>boſom-embraces</hi> of Jeſus Chriſt, and ſhining with an <hi>excellency</hi> of <hi>Glory,</hi> far ſurpaſſing the glorious <hi>luſtre</hi> of the pureſt <hi>Sun-beams</hi> in the Kingdom of Hea<g ref="char:EOLhyphen"/>ven. <hi>Happy Soul!</hi> ſeeing God has crown'd your <hi>tender years</hi> with <hi>Grace,</hi> you have an aſſured <hi>Title</hi> to <hi>Eter<g ref="char:EOLhyphen"/>nity</hi> of <hi>Glory.</hi> The <hi>Spouſe</hi> of Chriſt is <hi>ſpotleſſe, all-fair, all-glorious within, her cloathing alſo is of wrought gold.</hi> And he that looks upon you with a ſpirituall <hi>eye,</hi> may he not behold you as a bright <hi>ſpark</hi> of the <hi>Spouſes beauty?</hi> yea, is not all the Spouſes <hi>beau<g ref="char:EOLhyphen"/>ty</hi> and <hi>excellency</hi> yours, while Chriſt is yours, Chriſt the <hi>Crown</hi> and <hi>glory</hi> of the Spouſe and every Saint? Having therefore <hi>methodiz'd</hi> a few ſweet <hi>Medita<g ref="char:EOLhyphen"/>tions</hi> upon the ſhining <hi>excellency</hi> of the Church of
+<pb facs="tcp:43035:3"/>God, the ſmiling <hi>Glory</hi> of Chriſts Spouſe, I have pre<g ref="char:EOLhyphen"/>ſum'd to make them <hi>publick,</hi> that I might preſent them as a poor <hi>Pledge</hi> of that dear <hi>Affection</hi> and cordiall <hi>Reſpect</hi> which my <hi>Heart</hi> bears unto you. Read them therefore as written to, and of your ſelf, as one through the <hi>Grace</hi> of <hi>Chriſt</hi> intereſſed in the <hi>Churches Glo<g ref="char:EOLhyphen"/>ry.</hi> What Christ ſpeaks to his <hi>Spouſe,</hi> that apply to your own <hi>Soul,</hi> as if you heard a <hi>voice</hi> from <hi>Heaven ſaying,</hi> ARISE SHINE. Bleſſe God with your whole Heart, that He has inveſted you in the Churches <hi>Privi<g ref="char:EOLhyphen"/>ledges,</hi> and labour to finde your ſelf quickned thereby to all Chriſtian <hi>Performances.</hi> Take heed of <hi>Pride,</hi> take heed of <hi>Self-love,</hi> take heed of <hi>Hypocriſie.</hi> Theſe are the <hi>cankers</hi> that will eat out the very <hi>heart</hi> of your comforts, and vex your ſoul with reſtleſſe <hi>torments. Humility, Self-deniall</hi> and <hi>Sincerity,</hi> will beautifie the <hi>Beauty</hi> of all your <hi>Excellencies.</hi> Continue ſtill to <hi>ſeek</hi> your God daily in <hi>ſecret.</hi> Preſent Him with an <hi>humble</hi> and <hi>empty</hi> Heart, and He will fill it with his <hi>ſaving Grace</hi> and ſacred <hi>Comforts.</hi> Secret <hi>Refreſh<g ref="char:EOLhyphen"/>ings</hi> are marvellouſly ſweet to the <hi>Soul.</hi> Walk humbly with your God throughout the <hi>day,</hi> as <hi>ſeeing</hi> Him that is <hi>inviſible,</hi> and your Soul ſhall be more fit to maintain a <hi>Holy, Spirituall, Evangelicall</hi> Communion with God in <hi>Duty</hi> whenſoever he ſhall call you thereunto. Labour to grow in <hi>Grace:</hi> 'Be not aſham'd of <hi>Holi<g ref="char:EOLhyphen"/>neſſe:</hi> Study in all things to <hi>pleaſe</hi> God. The more <hi>Holy</hi> you are, the more <hi>Happy</hi> you ſhall be, the more of <hi>Heaven</hi> you ſhall have on <hi>Earth,</hi> and the more <hi>Aſſu<g ref="char:EOLhyphen"/>rance</hi> that you ſhall at length change <hi>Earth</hi> for <hi>Hea<g ref="char:EOLhyphen"/>ven.</hi> Now that the God of all <hi>Grace</hi> and <hi>Glory</hi> would enrich you with his ſaving <hi>Mercy,</hi> refreſh you with his ſweeteſt <hi>Comforts,</hi> and at length advance you to his glorious <hi>Kingdom,</hi> is the <hi>ſumme</hi> of his hearty <hi>Prayers</hi> for you, who is</p>
+            <closer>
+               <signed>Yours in Chriſt Jeſus, <hi>T.W.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:43035:3"/>
+            <head>To the Ingenuous Chriſtian Reader.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ee here a few <hi>Meditations</hi> which having been offered to the <hi>Ear,</hi> are now preſented to the <hi>Eye:</hi> I have adventur'd them forth to try the <hi>Temper</hi> of the <hi>Times,</hi> the <hi>genius</hi> of this <hi>Gene<g ref="char:EOLhyphen"/>ration.</hi> If they ſhall gain the <hi>Approba<g ref="char:EOLhyphen"/>tion</hi> of thoſe who love the <hi>Lord's Sion,</hi> and the <hi>Lord Jeſus</hi> (<hi>Sions</hi> glorious <hi>Guar<g ref="char:EOLhyphen"/>dian-Angel</hi>) in <hi>ſincerity,</hi> I ſhall finde (I hope) my Heart warm'd and en<g ref="char:EOLhyphen"/>larg'd into further <hi>Meditations</hi> of the ſame kinde, and ſhall be alſo encouraged to a <hi>communication</hi> of them: yea and ma<g ref="char:EOLhyphen"/>ny <hi>Meditations</hi> which are <hi>predeceſſours</hi> to theſe in <hi>birth,</hi> may then alſo (perhaps) become their <hi>ſucceſſours</hi> upon the worlds <hi>ſtage.</hi> If theſe be condemn'd (though I know them <hi>innocent</hi>) to be burnt, I ſhall never willingly make any more of my Chil<g ref="char:EOLhyphen"/>dren
+<pb facs="tcp:43035:4"/>
+               <hi>paſſe through the fire.</hi> If my <hi>Thoughts</hi> pleaſe not others, I ſhall be con<g ref="char:EOLhyphen"/>tent to reſerve them for the future to my ſelf, untill it ſhall pleaſe the Lord to enrich me with better <hi>Treaſure.</hi> However, I have caſt in this poor <hi>Mite</hi> into the Lords <hi>Trea<g ref="char:EOLhyphen"/>ſury,</hi> who graciouſly accepts of his ſervants, <hi>not according to what they have not, but according to what they have.</hi> From him alone proceeds all <hi>good,</hi> and to Him alone be aſcrib'd all <hi>Glory</hi> by the <hi>Church</hi> of <hi>Chriſt,</hi> throughout all <hi>Ages,</hi> and to all <hi>Eternity.</hi> Amen.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:43035:4"/>
+            <head>SION SHINING IN Goſpel-Glory.</head>
+            <epigraph>
+               <q>
+                  <p>
+                     <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </p>
+                  <p>
+                     <bibl>ISA. 60.1.</bibl> 
+                     <hi>Ariſe, ſhine.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">G</seg>Lorious things</hi> are ſpoken of thee, <hi>O City of God.</hi> Many gracious <hi>promiſes</hi> and glori<g ref="char:EOLhyphen"/>ous <hi>priviledges</hi> make <hi>Sion</hi> the glory of the world, and <hi>Jeruſalem</hi> the <hi>praiſe</hi> of the whole earth. The ſweet <hi>Spouſe</hi> of the great <hi>King</hi> is pre<g ref="char:EOLhyphen"/>ſented to us by this Evangelicall <hi>Prophet</hi> in her rich <hi>Attire</hi> and excellent <hi>Ornaments</hi> for <hi>Beauty</hi> and <hi>Glory.</hi> She that lay pol<g ref="char:EOLhyphen"/>luted with <hi>bloud,</hi> and ſullied with <hi>duſt,</hi> being waſht in <hi>bloud,</hi> and ſanctified through <hi>grace,</hi> is prepared for the <hi>boſome</hi> of her glorious <hi>Redeemer.</hi> Know ye not (O beloved) the beauty of her <hi>Grace,</hi> the
+<pb n="2" facs="tcp:43035:5"/>excellency of her <hi>Glory? Ariſe, be enlight<g ref="char:EOLhyphen"/>ned, come and ſee.</hi> This Prophet opens un<g ref="char:EOLhyphen"/>to you her well-furniſht <hi>Chamber,</hi> and her preſents you with the golden <hi>Key</hi> of her coſtly <hi>Cloſet.</hi> Here behold,
+<list>
+                  <item>1. The glorious <hi>Lamp</hi> of the <hi>Goſpel</hi> put into the <hi>hand</hi> of the Church, who is com<g ref="char:EOLhyphen"/>manded to hold it forth that it may pour out its <hi>light</hi> to the <hi>world,</hi> v. 1.—3.</item>
+                  <item>2. The mighty <hi>concourſe</hi> out of many Nations of <hi>Sions converts</hi> to this glorious <hi>Light,</hi> and the brightneſſe of this burning <hi>Lamp,</hi> v. 4,—14.</item>
+                  <item>3. A glorious <hi>Crown</hi> of eternall <hi>Ex<g ref="char:EOLhyphen"/>cellency</hi> ſet by the <hi>hand</hi> of God upon the <hi>head</hi> of the Spouſe of Chriſt, poſſeſt of a bleſſed <hi>Paradiſe</hi> of everlaſting <hi>peace, v.</hi> 15.—<hi>ult.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>This is thine <hi>Excellency,</hi> O <hi>Sion,</hi> this is thy <hi>Glory,</hi> O <hi>Jeruſalem: Ariſe, ſhine, for thy light is come, and the glory of the Lord is riſen upon thee.</hi>
+            </p>
+            <p>
+               <hi>Ariſe, ſhine.</hi>
+            </p>
+            <p>Here's a <hi>Precept</hi> pregnant with a <hi>Pro<g ref="char:EOLhyphen"/>miſe:</hi> The Spirit of God deals forth <hi>comfort</hi> wrapt up in a <hi>command;</hi> For God aſſures that he will <hi>cauſe</hi> his Church to ariſe and ſhine, in this that he <hi>commands</hi> her, <hi>Ariſe, ſhine.</hi>
+            </p>
+            <pb n="3" facs="tcp:43035:5"/>
+            <p>Conſider this in relation to the Church in <hi>general,</hi> and to <hi>particular</hi> Saints.</p>
+            <p>Conſider'd in relation to the Church in generall, it hints ſundry particular <hi>obſervations,</hi> which we ſhall briefly paſſe over.</p>
+            <p>
+               <hi>Ariſe, ſhine.</hi> Then note, that</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>1</label> The <hi>Church</hi> may be ſometimes in a <hi>cloud,</hi>The <hi>Sun</hi> may for a time wear <hi>ſackloth,</hi> the <hi>Stars</hi> may looſe their <hi>light,</hi> the <hi>Temple</hi> may be full of <hi>ſmoak,</hi> and the <hi>Ark</hi> wrapt up in <hi>darkneſſe.</hi> A miſt may cover the face of <hi>Canaan,</hi> and a thick cloud may reſt upon <hi>Jeruſalem.</hi> God loves to beautifie the <hi>Face</hi> of Time with ſome <hi>ſpots</hi> of darkneſſe. God de<g ref="char:EOLhyphen"/>lights in chequering the world with in<g ref="char:EOLhyphen"/>terchanges of <hi>light</hi> and <hi>darkneſſe, day</hi> and <hi>night.</hi> The returns of <hi>darkneſſe</hi> do illuſtrate the beauty of <hi>light,</hi> That <hi>light</hi> is moſt beautifull, amiable and accepta<g ref="char:EOLhyphen"/>ble, that's born out of the <hi>womb</hi> of the thickeſt <hi>darkneſſe.</hi> The Sun ſhines forth moſt clearly when it hath waſht its <hi>beams</hi> in the waters of the <hi>Clouds.</hi> Then let not any <hi>Star</hi> think it ſtrange that it is ſometimes obſcured, when the <hi>Sun</hi> it ſelf may be Eclipſt, and the <hi>Conſtellations of Heaven</hi> mask'd in <hi>darkneſſe.</hi>
+            </p>
+            <pb n="4" facs="tcp:43035:6"/>
+            <p>
+               <hi>Ariſe, ſhine.</hi> Then,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> There are <hi>caſtings</hi> down before <hi>lift<g ref="char:EOLhyphen"/>ings</hi> up,<hi>Clouds</hi> before <hi>clearneſſe, Dark<g ref="char:EOLhyphen"/>neſſe</hi> (as in the Old ſo in the New <hi>Crea<g ref="char:EOLhyphen"/>tion</hi>) before <hi>light.</hi> The Church is cal<g ref="char:EOLhyphen"/>led to Ariſe, therefore ſhe was yet down; She is commanded to Shine, therefore ſhe was yet dark. Deſpair not then, poor dejected ſouls, who lie down in <hi>darkneſſe</hi> and ſee no <hi>light;</hi> when you have a while with ſad hearts ſorrowed for your <hi>ſins,</hi> your <hi>light</hi> will break forth as the morning, and you ſhall hear this ſweet Goſpel-voice, <hi>Ariſe, ſhine.</hi>
+            </p>
+            <p>
+               <hi>Ariſe, ſhine.</hi> Then,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> There's an <hi>excellency</hi> in the Church of God,a bright and ſhining <hi>excellen<g ref="char:EOLhyphen"/>cy.</hi> This is the <hi>Sun</hi> of the lower <hi>world,</hi> which ſhall at length ſhine in the high<g ref="char:EOLhyphen"/>eſt <hi>heavens.</hi> The Saints have their <hi>luſtre,</hi> which is nothing elſe but the <hi>reflection</hi> of thoſe glorious beams of <hi>grace,</hi> which are ſhed from the Sun of <hi>Righteouſneſſe</hi> upon them. This is the <hi>Woman</hi> cloth'd with the <hi>Sun,</hi> that hath the <hi>Moon</hi> under her feet, and upon her head a <hi>Crown</hi> of twelve Stars, <hi>Rev.</hi> 12.1. This is ſhe that is come to excellent <hi>Ornaments,</hi> and
+<pb n="5" facs="tcp:43035:6"/>crowned with perfection of <hi>beauty,</hi> through Chriſts own <hi>comelineſſe</hi> put up<g ref="char:EOLhyphen"/>on her, <hi>Ezek.</hi> 16.7,—14. She is all <hi>Fair,</hi> all <hi>Glorious</hi> within, through the <hi>Glory</hi> of God ariſen upon her, <hi>Cant.</hi> 4.7. <hi>Pſal.</hi> 45.13. The Church of God is the <hi>Crown</hi> of the earth, and the <hi>Glory</hi> of the world. The world is wrapt in <hi>darkneſſe</hi> till ſhe Ariſe and ſhine. Horrible are the at<g ref="char:EOLhyphen"/>tempts of the Churches <hi>Perſecutors.</hi> Hel<g ref="char:EOLhyphen"/>liſh <hi>darkneſſe</hi> would ſoon over-ſpread the earth, if the Churches <hi>light</hi> were once extinguiſht. O ye ſtrangers of the world! You that lie <hi>muffled</hi> in <hi>midnight,</hi> even in the Goſpels <hi>midday,</hi> lift up your <hi>heads,</hi> behold and admire the Churches <hi>excellencies.</hi> Leave your dark <hi>dens</hi> of ſin and profaneſſe, and come to her ſhining <hi>light.</hi> Be raviſht with the beauty of her <hi>Grace,</hi> and admire the brightneſſe of her <hi>Glory.</hi> Walk in her light, and you ſhall partake in her <hi>brightneſſe</hi> and <hi>beauty.</hi>
+            </p>
+            <p>
+               <hi>Ariſe, ſhine.</hi> Then take notice that</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> A Goſpel-<hi>ſtate</hi> is a glorious <hi>ſtate,</hi>a <hi>Heaven</hi> upon <hi>Earth.</hi> The ſtate of the Church of God under the <hi>Goſpel</hi> is more glorious then under the <hi>Law, Iſa.</hi> 60.17. 2 Cor. 3.7,—<hi>ult.</hi> Herein are more clear and
+<pb n="6" facs="tcp:43035:7"/>glorious manifeſtations of <hi>Chriſt,</hi> diſpen<g ref="char:EOLhyphen"/>ſations of <hi>Grace,</hi> communications of the <hi>Spirit;</hi> more abundance of ſpirituall and glorious <hi>mercies, gifts</hi> and <hi>endowments.</hi> The ſtate of grace under the Goſpel is nothing leſſe then the <hi>Kingdom of heaven</hi> upon earth, <hi>Mat.</hi> 3.2. <hi>Heaven</hi> is open'd under the <hi>Goſpel,</hi> and Believers enter in, and are inveſted with glorious <hi>privi<g ref="char:EOLhyphen"/>ledges,</hi> and inrich'd with glorious <hi>enjoy<g ref="char:EOLhyphen"/>ments.</hi> This is that <hi>Heaven,</hi> wherein God's <hi>Saints</hi> ſhine as ſo many <hi>Stars</hi> in the <hi>luſtre</hi> of that glorious <hi>light</hi> which they derive from the Sun of <hi>Righteouſ<g ref="char:EOLhyphen"/>neſſe.</hi> This <hi>Evangelical</hi> condition is an <hi>Angelical</hi> condition, wherein Gods Saints (thoſe bright <hi>morning-ſtars</hi>) ſing for joy, and record the glorious <hi>praiſes</hi> of their gracious <hi>Redeemer.</hi> Goſpel-<hi>Times</hi> are glorious <hi>Times,</hi> Goſpel-<hi>mercies</hi> are glo<g ref="char:EOLhyphen"/>rious <hi>mercies,</hi> Goſpel-<hi>graces</hi> are (as I may ſay) glorious <hi>graces,</hi> Goſpel-<hi>comforts</hi> are glorious <hi>comforts,</hi> Goſpel-<hi>Salvation</hi> is a glorious <hi>Salvation.</hi> Happy are we that live in Goſpel-<hi>times,</hi> Oh that we could but embrace Goſpel-<hi>Truths!</hi> hap<g ref="char:EOLhyphen"/>py are we that have Goſpel-<hi>ſeaſons,</hi> Oh that we were but Goſpel-<hi>Saints.</hi> O how are we to admire the riches of Gods <hi>grace,</hi>
+               <pb n="7" facs="tcp:43035:7"/>that he is pleaſed to vouchſafe us his glorious <hi>Goſpel.</hi> Let us then labour to adorn this glorious <hi>Goſpel</hi> by gracious <hi>courſes.</hi> The <hi>day-ſpring</hi> from on high hath viſited us, and the glorious <hi>light</hi> of the Goſpel ſhines round about us; let us then caſt off the works of <hi>darkneſſe,</hi> and put on the Armour of <hi>light;</hi> let's ceaſe to <hi>ſin,</hi> ariſe and <hi>ſhine</hi> in the <hi>luſtre</hi> of this <hi>light</hi> that ſhines upon us.</p>
+            <p>
+               <hi>Ariſe, ſhine.</hi> Know then,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> When God pours out light and luſtre upon his <hi>Church,</hi>ſhe muſt pour it out into the <hi>world.</hi> When Chriſt puts a bur<g ref="char:EOLhyphen"/>ning <hi>Lamp</hi> into the hand of his Spouſe, ſhe muſt give <hi>light</hi> to the Nations that ſit in <hi>darkneſſe</hi> and the <hi>ſhadow</hi> of <hi>death.</hi> The <hi>Sun</hi> pours his light upon the <hi>Moon</hi> and <hi>Stars,</hi> and theſe pour it out with many pretious influences upon the <hi>earth.</hi> When Jeſus Chriſt the <hi>Sun</hi> of Righteouſ<g ref="char:EOLhyphen"/>neſſe pours out the <hi>light</hi> of the Goſpel, with influences of <hi>love</hi> upon his <hi>Church</hi> and <hi>Saints,</hi> they muſt likewiſe pour out the ſame upon the <hi>world</hi> and <hi>ſinners.</hi> When God ſets up his <hi>Golden-candleſtick</hi> at <hi>Jeruſalem,</hi> 'tis that it might give light to the Cities round about. O then let
+<pb n="8" facs="tcp:43035:8"/>every <hi>Star ſhine</hi> to encreaſe the <hi>luſtre</hi> of this <hi>light,</hi> and let <hi>ſinners</hi> come to the brightneſſe of this <hi>ſhining,</hi> that they may ſee the way of <hi>life,</hi> leading to eternall <hi>Glory,</hi> leſt otherwiſe they be ſhut up un<g ref="char:EOLhyphen"/>der everlaſting <hi>darkneſſe</hi> and damnation, See <hi>Mat.</hi> 5.14, 15, 16.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> 
+               <hi>Ariſe, ſhine.</hi> Now let's conſider the words as they bear reference to, particu<g ref="char:EOLhyphen"/>lar Saints, and they'l import thus much; The Saints of God in Goſpel-times ſhall and muſt Ariſe and ſhine.They ſhall, for this <hi>Precept</hi> implies a <hi>Promiſe:</hi> They muſt, for this <hi>Promiſe</hi> is lockt up in a <hi>Precept,</hi> Ariſe, ſhine. This is the Saints <hi>Dignity,</hi> this their <hi>Duty.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Branch </seg>1</label> 1.They ſhall, they muſt Ariſe; They muſt not lie down ſtill in <hi>darkneſſe,</hi> when the <hi>light</hi> ſhines, and the Spirit ſaies, A<g ref="char:EOLhyphen"/>riſe, Ariſe from the</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.<hi> Pit of horrour and the dungeon of darkneſſe,</hi> whereinto they have been caſt by conviction: God doth indeed <hi>caſt</hi> down, but doth not <hi>keep</hi> down his Elect in this dark and ſad condition. God brings ſinners to <hi>Heaven</hi> by the Gates of <hi>Hell.</hi> While they lie under conviction, their <hi>ſins,</hi> like ſwarms of Bees, encompaſſe them, arm'd with fiery, poyſonous <hi>ſtings,</hi>
+               <pb n="9" facs="tcp:43035:8"/>the <hi>wrath</hi> of God flames againſt them, the <hi>Terrours</hi> of the <hi>Almighty</hi> ſurround them, and the unſpeakable <hi>Torments</hi> of of <hi>Hell</hi> amaze them, their own <hi>Conſci<g ref="char:EOLhyphen"/>ence</hi> (which ſhould be a <hi>Port</hi> of <hi>Peace</hi> to a troubled Spirit) being full of <hi>Hor<g ref="char:EOLhyphen"/>rour</hi> and <hi>Confuſion,</hi> is a very <hi>Hell</hi> unto them. In this wofull condition when they are now ready to enter by the Gate of <hi>Deſpair</hi> into the Kingdom of ever<g ref="char:EOLhyphen"/>laſting <hi>Darkneſſe,</hi> God cals to them in the ſweet voice of the Goſpel, ſaying, <hi>Re<g ref="char:EOLhyphen"/>turn, Return, Repent, Repent,</hi> and believe the Goſpel, and live for evermore; your ſins are <hi>pardonable,</hi> your ſins are <hi>pardoned.</hi> Chriſt, and Heaven, and Glory, and all are yours everlaſtingly. And withall he breaks the <hi>Chains</hi> of their <hi>Corruptions,</hi> beats back the fiery <hi>darts</hi> of their <hi>Tem<g ref="char:EOLhyphen"/>ptations,</hi> takes them by the hand, and leads them out of the dark <hi>Priſon</hi> of ſin into the ſweet <hi>Paradiſe</hi> of Grace, and ſpeaks <hi>Peace, Peace</hi> to their ſouls, and ſo gives them poſſeſſion of true, reall, ſpirituall and laſting <hi>Comfort, Content<g ref="char:EOLhyphen"/>ment,</hi> and <hi>Joy.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.<hi>Duſt of affliction, and deeps of distreſs.</hi> God ſometimes leads his people down from the <hi>mountains</hi> of <hi>joy</hi> into the <hi>valleys</hi>
+               <pb n="10" facs="tcp:43035:9"/>of <hi>ſorrow.</hi> He eclipſes for a time the <hi>light</hi> of <hi>life,</hi> and covers them with the <hi>ſhadow</hi> of <hi>death.</hi> God doth not alwaies feed his children with the <hi>Honey</hi> of his <hi>Promiſes,</hi> the <hi>marrow</hi> of his <hi>comforts,</hi> the <hi>ſweetneſſe</hi> of his <hi>love,</hi> but ſometimes he gives them the <hi>bread</hi> of <hi>adverſity</hi> to eat, and the <hi>wa<g ref="char:EOLhyphen"/>ters</hi> of <hi>affliction</hi> to drink, and cauſeth them to ſit down in a ſtate of <hi>darkneſſe</hi> and <hi>de<g ref="char:EOLhyphen"/>ſertion.</hi> But he is a tender-hearted <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> his <hi>Bowels</hi> are ſoon moved towards them, and ſo he ſhews them his pleaſed <hi>face,</hi> ſpeaks to them in the voice of <hi>kinde<g ref="char:EOLhyphen"/>neſſe</hi> and <hi>love,</hi> cals them to his <hi>embraces,</hi> and receives them into the boſome of his ſweeteſt and ſoul-contenting <hi>mercies:</hi> He brings glorious <hi>Advantages</hi> out of theſe grievous <hi>Afflictions</hi> to their immortall ſouls. <hi>See</hi> 2. Cor. 4.17.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.<hi>Dunghil of Contempt, and mire of Diſgrace.</hi> God raiſes his ſervants from the <hi>Dunghil,</hi> to ſit with Princes on the <hi>Throne.</hi> He waſhes off the <hi>mire</hi> from their feet, and brings them up to his holy <hi>Hill Mount Sion.</hi> Wicked men who are as <hi>Swine,</hi> rooting in the <hi>Dunghill</hi> of the <hi>Earth,</hi> trample Gods <hi>Jewels,</hi> his <hi>Pearls,</hi> under rheir feet: but they are ſtill pre<g ref="char:EOLhyphen"/>cious in Gods account, and he will cauſe
+<pb n="11" facs="tcp:43035:9"/>their ſhining <hi>brightneſſe</hi> to appear: Gods <hi>precious</hi> Saints are often vilified by the <hi>vileſt</hi> men in the Earth, they are made as the <hi>filth</hi> of the world, and the <hi>off-ſcour<g ref="char:EOLhyphen"/>ing</hi> of all things, 1 <hi>Cor.</hi> 4.13. But God will at length <hi>clothe</hi> them with <hi>Excellency</hi> and <hi>Honour,</hi> and <hi>crown</hi> them with eternall <hi>Glory.</hi> The world delights to caſt the mire of Diſgrace into the <hi>Fa<g ref="char:EOLhyphen"/>ces</hi> of thoſe that bear the bleſſed <hi>Image</hi> of God himſelf: But he that will at length wipe away all <hi>Tears</hi> from their eyes, will alſo waſh away all ſuch op<g ref="char:EOLhyphen"/>probrious <hi>Imputations,</hi> and cauſe them to ſhine as the <hi>Stars</hi> in the Firmament for ever and ever. Wicked men with the ſharp Razors of their own malicious tongues <hi>wound</hi> the Names of Gods dear<g ref="char:EOLhyphen"/>eſt Saints, and labour to <hi>bury</hi> them in Ignominy and everlaſting Contempt, but God will <hi>heal</hi> their Names, give them a glorious <hi>Reſurrection,</hi> and an everlaſting bleſſed <hi>Memoriall:</hi> They ſtudy to caſt the only <hi>Excellent</hi> down from their <hi>Ex<g ref="char:EOLhyphen"/>cellency,</hi> but God will <hi>advance</hi> them to eternall <hi>Glory.</hi> Notwithſtanding all the <hi>weight of Reproaches</hi> the wicked lay upon them, God will put forth his <hi>Almighty Arm,</hi> and they ſhall ariſe: See <hi>Pſal.</hi> 68.13.</p>
+            <pb n="12" facs="tcp:43035:10"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Branch </seg>2</label> 2. They ſhall, they muſt ſhine: As they have had a time of ſinning and a time of ſorrow, ſo they ſhall have a time of <hi>ſhining</hi> and a time of <hi>joy.</hi> They are commanded and ſhall and muſt ſhine in the</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.<hi>Spotleſſe luſtre of Chriſts Righteouſ<g ref="char:EOLhyphen"/>neſſe.</hi> Every Saint is cloathed with the <hi>Sun.</hi> God makes all his children <hi>Prieſts,</hi> and hath provided for them <hi>holy Gar<g ref="char:EOLhyphen"/>ments</hi> for <hi>Beauty</hi> and <hi>Glory;</hi> He enſtals them <hi>Kings,</hi> and cloathes them with <hi>Roy<g ref="char:EOLhyphen"/>all Robes,</hi> far richer, far purer then <hi>Cloth of Gold.</hi> Theſe Robes are none other then Gods own Son the <hi>King of Glory</hi> himſelf hath worn on Earth. They are the rich <hi>Robes</hi> of his perfect Righteouſneſſe, ſo pure, that Gods own all-diſcerning Eye cannot diſcover one ſpot in them. Saints muſt needs <hi>ſhine</hi> when they are dreſt in ſuch rich Apparrell. The Sun it ſelf the <hi>Fountain of Light,</hi> whoſe face is too glorious for us mortals ſtedfaſtly to behold, is but a <hi>darkeſome mote</hi> in com<g ref="char:EOLhyphen"/>pariſon of the bright and <hi>ſhining Luſtre</hi> of this rich Attire. <hi>Glorious</hi> is the cloathing of every <hi>gracious</hi> ſoul.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.<hi>Excellent Ornaments of ſaving Graces.</hi> Every Saint is as a little <hi>Heaven</hi> full of
+<pb n="13" facs="tcp:43035:10"/>
+               <hi>ſhining Stars.</hi> God cloathes all his chil<g ref="char:EOLhyphen"/>dren with white Garments of <hi>Sanctifica<g ref="char:EOLhyphen"/>tion,</hi> all-beſpangled with ſparkling pre<g ref="char:EOLhyphen"/>cious Pearls of heavenly and Divine Gra<g ref="char:EOLhyphen"/>ces, as <hi>Faith, Repentance, Love, Hope, O<g ref="char:EOLhyphen"/>bedience, Sincerity, Humility,</hi> &amp;c. There is not one of theſe but is worth ten thou<g ref="char:EOLhyphen"/>ſand times more then a world of Gold, be<g ref="char:EOLhyphen"/>ing as it were a <hi>Ray</hi> of God, a <hi>Pledge</hi> of his eternall Love, and a <hi>Character</hi> of Glory, ſtampt upon the ſoul. There is a chain of theſe Heavenly Graces where<g ref="char:EOLhyphen"/>with God adorns the ſouls of his Chil<g ref="char:EOLhyphen"/>dren, to which is annexed <hi>Glory</hi> it ſelf, as a Gem of infinite excellency and invaluable worth. See 2 <hi>Pet.</hi> 1.3,—6. Now the united ſplendour of theſe Heavenly <hi>Graces</hi> muſt needs beautifie the ſoul with an admira<g ref="char:EOLhyphen"/>ble <hi>Excellency</hi> and ſhining Luſtre.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.<hi>Beautifull garments of Salvation.</hi> Eve<g ref="char:EOLhyphen"/>ry childe of God ſits incircled with eter<g ref="char:EOLhyphen"/>nall <hi>ſmiles</hi> from the Face of God, and thence hath cauſe to be everlaſtingly merry. All the Saints are welcome <hi>gueſts</hi> to the <hi>Goſpels</hi> Feaſt, <hi>Iſa.</hi> 25.6. where that nothing may be wanting for their full <hi>Contentment</hi> and <hi>Delight,</hi> they are cloathed by Gods own hand with <hi>Fe<g ref="char:EOLhyphen"/>ſtivall garments,</hi> and anointed with the
+<pb n="14" facs="tcp:43035:11"/>ſweet <hi>Oyl</hi> of joy and gladneſſe. O how can the Saints of God chooſe but <hi>ſmile</hi> and <hi>ſhine</hi> in joy, who are admitted to ſuch a Heart-contenting Feaſt. O what immortall joys muſt needs ſpring up in the Hearts of Gods children, from a live<g ref="char:EOLhyphen"/>ly apprehenſion of the infinite ſweetneſſe and excellency of the <hi>Love</hi> of God, and the invaluable preciouſneſſe of his <hi>Grace</hi> which they enjoy, the dreadfull and e<g ref="char:EOLhyphen"/>verlaſting <hi>Tormenes</hi> of Hell fire, which they have eſcap'd, and the incomprehen<g ref="char:EOLhyphen"/>ſibly glorious and eternall <hi>Joys</hi> of Hea<g ref="char:EOLhyphen"/>ven, whereof they ſhall ſhortly be poſ<g ref="char:EOLhyphen"/>ſeſt, beſides thoſe many ſweet and graci<g ref="char:EOLhyphen"/>ous <hi>comforts</hi> wherewith Jeſus Chriſt hath already crown'd their thrice happy ſouls: Thus the <hi>Day-ſtars</hi>-of Grace can<g ref="char:EOLhyphen"/>not but ſhine on <hi>Earth,</hi> which are alrea<g ref="char:EOLhyphen"/>dy prepar'd to be eternally fixt in Heaven.</p>
+            <p>Thus having paſt through theſe par<g ref="char:EOLhyphen"/>ticulars, we come to the Uſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> Herein let the holy Ghoſt ſpeak to your Hearts;Ariſe, ſhine, O ye <hi>Saints</hi> of God, and <hi>Sons</hi> of the Moſt High. The <hi>Night</hi> is now paſt, and the <hi>Day</hi> is come, yea, far ſpent, the <hi>Sun</hi> of Righteouſneſſe is drawing nigh to the higheſt <hi>Point</hi> of his glorious <hi>Aſcent,</hi> and darts forth his
+<pb n="15" facs="tcp:43035:11"/>gracious, reviving <hi>beams</hi> into the loweſt and humbleſt hearts: Rouze up your ſelves therefore O ye children of God, lift up your heads, Ariſe, ſhine.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.<hi>Put on the Royall Robes of Chriſts Righteouſneſſe.</hi> See your own <hi>nakedneſſe,</hi> and bluſh to behold the ſhame of your <hi>nakedneſſe:</hi> See the Wardrobe of the Go<g ref="char:EOLhyphen"/>ſpel open, and Chriſt Jeſus with his own hands offering you the <hi>rich Robes</hi> of his own Righteouſneſſe: Put forth the hand of Faith, and put them upon your naked ſouls; ſo Chriſt will embrace you as his <hi>Brethren,</hi> God will emboſome you as his <hi>children,</hi> the Angels of Heaven will at length with ſhouting entertain you in the manſions of Eternity, as <hi>Heirs</hi> of Glory.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.<hi>Deck your ſelves with the Pearls of Heaven.</hi> See Gods Cabinet is unlockt for you: Get your Hearts furniſht with ſan<g ref="char:EOLhyphen"/>ctifying <hi>Graces,</hi> the ſouls <hi>Jewels.</hi> God hath given you the <hi>Key</hi> of Heaven, Pray<g ref="char:EOLhyphen"/>er, and the <hi>wings</hi> of <hi>Faith</hi> and <hi>Love</hi> to mount up thither: Away then, and fetch thence daily what precious <hi>Ornaments</hi> ſo<g ref="char:EOLhyphen"/>ever you want to render your ſouls beau<g ref="char:EOLhyphen"/>tifull and amiable in the eyes of your <hi>Be<g ref="char:EOLhyphen"/>loved.</hi> Put on theſe <hi>Ornaments</hi> daily, and
+<pb n="16" facs="tcp:43035:12"/>wear them continually. They'l be the <hi>brighter</hi> for the wearing. So at length you ſhall put off ſome of your <hi>Ornaments</hi> of grace, and put on ever-ſhining <hi>Robes</hi> of Glory.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.<hi>
+                  <g ref="char:V">Ʋ</g>nmask your ſmiling faces, and ſend forth your Rays of joy;</hi> For God ſmiles and ſhines upon you. <hi>
+                  <g ref="char:V">Ʋ</g>nlock</hi> your joyfull <hi>Hearts,</hi> and pour forth your <hi>ſouls</hi> in prai<g ref="char:EOLhyphen"/>ſes; for God hath <hi>unlock't</hi> the <hi>Ark</hi> of his Covenant, and unfolded the <hi>Riches</hi> of his <hi>Grace</hi> for your eternall <hi>Good.</hi> The Lord himſelf <hi>rejoyces</hi> over you, and cals upon you to <hi>rejoyce</hi> in the Lord, <hi>Pſa.</hi> 33.1. <hi>Phil.</hi> 4.4. <hi>Pſa.</hi> 32.11. Serve the Lord with <hi>Joyfullneſſe</hi> and <hi>Gladneſſe</hi> of heart for his abundant <hi>Goodneſſe</hi> and <hi>Love</hi> to you in the Lord Jeſus Chriſt. Burniſh your Chriſtian <hi>Profeſſion</hi> and adorn the Goſpel with Joyfulnes. Reflect the beams of Gods <hi>Love</hi> with Rays of ſpirituall <hi>Joy.</hi> With Joy draw <hi>Waters</hi> of life out of the <hi>Wells</hi> of ſalvation. With Joy walk on in the <hi>Paths</hi> of Righteouſneſſe, untill you ſhall come to <hi>Sion</hi> with ſinging Halelujah's, and everlaſting Joys upon your heads.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But here the Saints of God themſelves may object: Rejoice? ſhould we <hi>rejoice</hi> when our ſinnes <hi>cry?</hi> ſhould we <hi>rejoice</hi>
+               <pb n="17" facs="tcp:43035:12"/>when <hi>Syon weeps?</hi> Can we, ought we to re<g ref="char:EOLhyphen"/>joice when our ſins and the abominations of the Land are daily <hi>multiply'd,</hi> and the wrath of God <hi>provok'd</hi> againſt us? When the wayes of <hi>Syon mourn,</hi> and the gates of <hi>Jeruſalem</hi> are <hi>deſolate?</hi> does not God rather call to mourning, and weeping, and lamentation?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer; 'Tis true, theſe things ought to be taken to <hi>heart</hi> with <hi>hearty</hi> grief and lamentation: And oh, that we could pour out our hearts in abundant <hi>ſorrowes</hi> for theſe Abominations, and in melting <hi>Compaſſions</hi> over the bleeding <hi>Miſeries</hi> of Gods people! O that our Heads were <hi>Wa<g ref="char:EOLhyphen"/>ters,</hi> and our Eyes <hi>Fountains</hi> of Tears, that we might weep day and night for the ſlain of the People of the Lord, and the Abominations that are be found in the City of our God. Theſe things are a <hi>La<g ref="char:EOLhyphen"/>mentation,</hi> and ſhall be for a <hi>Lamentation.</hi> But yet withall conſider;</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>1</label> 1. <hi>Theſe Clouds will not obſcure your Clearneſſe,</hi>Theſe <hi>ſorrowes</hi> are conſiſtent with your <hi>joyes. Senſuall</hi> joy and grief mutually expell one another, but <hi>ſpiri<g ref="char:EOLhyphen"/>tuall</hi> joy and grief, as loving <hi>twins</hi> bred in the ſame womb, though ſucceſſively born, live together in the ſame ſanctified
+<pb n="18" facs="tcp:43035:13"/>
+               <hi>ſoul.</hi> Yea, the more your Hearts <hi>greve</hi> for ſinne, the more will your ſouls <hi>rejoice</hi> in the God of your ſalvation.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.<hi>Theſe mourning Blacks will beautifie your ſhining brightneſſe.</hi> This ſpirituall <hi>ſorrow</hi> will encreaſe the luſtre of your Evangelicall <hi>joy.</hi> Theſe ſhowers of <hi>grief</hi> will beautifie your beams of <hi>joy;</hi> your ſorrowfull <hi>ſighs</hi> will encreaſe the beauty of your joyfull <hi>ſmiles.</hi> Sad <hi>Tears</hi> drop<g ref="char:EOLhyphen"/>ping from ſuch ſmiling Eyes, are ſuch <hi>Pearls,</hi> as God will treaſure them up e<g ref="char:EOLhyphen"/>very one in his bottle. Sweet <hi>Smiles</hi> ſhining through a ſhower of Tears, are ſuch <hi>ſparkles</hi> as will aſcend to Heaven and be crown'd with Acceptance.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.<hi>There's light of joy ſown in the dark<g ref="char:EOLhyphen"/>neſſe of theſe ſorrowes.</hi> Pſal. 97.11. The bleſſing of God crowns the <hi>Heads,</hi> and the comforts of God ſhall fill the <hi>Hearts</hi> of ſuch mourners in <hi>Sion.</hi> Mat. 5.4. The pretious <hi>ſeed</hi> of ſpirituall ſorrowes, will bring a plenteous <hi>Harveſt</hi> of eternal joys. <hi>Pſal.</hi> 126.5, 6. Who mix therefore their <hi>mirth</hi> with <hi>mourning,</hi> ſhall have their <hi>ſorrowes</hi> concluded with everlaſting glo<g ref="char:EOLhyphen"/>rious <hi>joyes.</hi>
+            </p>
+            <p>Let's cloſe theſe Conſiderations with theſe <hi>Corollaries.</hi>
+            </p>
+            <pb n="19" facs="tcp:43035:13"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Coroll. </seg>1</label> 1. <hi>Weep your Beams.</hi>Dart forth ſtream<g ref="char:EOLhyphen"/>ing <hi>beams</hi> of <hi>joy,</hi> and pour out beaming <hi>ſtreams</hi> of <hi>grief. Rejoice with trembling,</hi> Pſal. 2.11. <hi>Sweeten</hi> your mourning with mirth, and <hi>ſeaſon</hi> your mirth with mourn<g ref="char:EOLhyphen"/>ing. The <hi>Baſe</hi> of Godly Sorrow join'd in Conſort with the <hi>Treble</hi> of Spirituall Gladneſſe, makes the beſt <hi>Melody</hi> in the ears of God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>Waſh your Smiles in Tears, and beau<g ref="char:EOLhyphen"/>tifie your Mirth with Mourning,</hi>the <hi>Beauty</hi> of your <hi>Beauty. Bathe</hi> your ſhi<g ref="char:EOLhyphen"/>ning Souls in Sorrowes and they'l ſhine the <hi>brighter.</hi> The choiceſt <hi>Beauty</hi> con<g ref="char:EOLhyphen"/>ſiſts of a pure <hi>whiteneſſe</hi> with ſome mix<g ref="char:EOLhyphen"/>ture of a clear <hi>ruddineſſe,</hi> being actuated with a ſparkling <hi>livelineſſe,</hi> the <hi>ſoul of Beauty:</hi> ſo a ſerene and ſmiling <hi>ſoul</hi> with a bleeding <hi>heart</hi> enliven'd by the ſancti<g ref="char:EOLhyphen"/>fying <hi>Spirit</hi> of grace, make up the moſt perfect <hi>Beauty</hi> in the eyes of God. Learn then ſo to temper your <hi>joy</hi> with <hi>ſorrow,</hi> that both may be more acceptable unto God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. <hi>Sowe your Seed of Sorrowes,</hi>
+               <hi>that you may reap your Harveſt of Joyes. Sowe</hi> your <hi>Seed</hi> in the <hi>Night,</hi> and you ſhall reap your <hi>Fruit</hi> in the <hi>Morning.</hi> Fill Gods bottle with <hi>Tears,</hi> and hee'l give you
+<pb n="20" facs="tcp:43035:14"/>for every drop a <hi>Pearl.</hi> Let your Heart bleed for your grievous <hi>ſins,</hi> and God will at length crown your ſoul with glo<g ref="char:EOLhyphen"/>rious <hi>joyes.</hi> Weep for <hi>Jeruſalem</hi> and you ſhall ſing in <hi>Syon. Mourn</hi> for the <hi>ſorrows</hi> of the <hi>Saints,</hi> and you ſhall <hi>rejoice</hi> for joy with them. Lay a deep <hi>foundation</hi> in ſor<g ref="char:EOLhyphen"/>row for your ſins, and God will crown your <hi>Building</hi> of Grace with the <hi>Top-ſtone</hi> of Glory.</p>
+            <p>Thus far we have conſidered the words in reference to the Glorious <hi>Priviledges</hi> of the Goſpel of Chriſt, wherewith God hath crown'd his Church and Saints; now let's apply them to you that are the children of the Church, of the <hi>ſociety</hi> of the Saints in reference to the glorious <hi>Deliverance</hi> that the great God hath wrought for his Engliſh <hi>Sion,</hi> from the <hi>Popiſh Plot</hi> of the <hi>Powder-Treaſon,</hi> a mer<g ref="char:EOLhyphen"/>cy to be celebrated this day with Praiſes, and to be commemorated throughout all generations. Behold, O ye Saints, the Lord of hoſts hath brought <hi>ſalvation</hi> this day to <hi>Sion:</hi> Rejoyce and be glad, <hi>Ariſe, ſhine.</hi> O let the high praiſes of the moſt high God, be this day in your hearts and mouths. Take a large <hi>proſpect</hi> of the Lords mercies, and then lift up your voices in
+<pb n="21" facs="tcp:43035:14"/>joyfull acclamations of <hi>Hallelujah.</hi> And that you may rightly celebrate the glo<g ref="char:EOLhyphen"/>rious <hi>ſolemnities</hi> of the great King,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Duty. </seg>1</label> 1. Take your <hi>Lamps</hi> in your hands, and view that <hi>Den of darkneſſe,</hi> wherein the helliſh <hi>Monſter</hi> that would have devour'd Gods holy Ones, was almoſt hatcht. A dark Vault there was under the Parlia<g ref="char:EOLhyphen"/>ment Houſe, where this deadly Monſter <hi>brooded</hi> by Popiſh <hi>Policy,</hi> ſhould have been <hi>brought forth,</hi> had it not been ſtopt and ſtifled in the birth, through Divine <hi>mercy,</hi> by the hand of the All-knowing, and All-powerfull God. This was a work of <hi>dark<g ref="char:EOLhyphen"/>neſſe</hi> in a place of <hi>darkneſſe,</hi> the contrivance of the children of <hi>darkneſſe,</hi> by the inſtiga<g ref="char:EOLhyphen"/>tion of the Prince of <hi>darkneſſe,</hi> againſt the children of <hi>Light.</hi> Thus a <hi>Vail</hi> of darkneſs was drawn over the foul <hi>face</hi> of this hor<g ref="char:EOLhyphen"/>rible wickedneſſe. This was an <hi>hidden</hi> en<g ref="char:EOLhyphen"/>terprize againſt Gods <hi>hidden</hi> ones. Had this taken effect, <hi>hel</hi> had broken looſe from the bowels of <hi>earth.</hi> This was an attempt to have <hi>blown</hi> up with one <hi>blaſt</hi> from the mouth of hell, the <hi>Parliament, Prince</hi> and <hi>Peers,</hi> and ſo ſuddenly to have involved our <hi>pleaſant</hi> and <hi>peaceable</hi> Land in <hi>confuſi<g ref="char:EOLhyphen"/>on</hi> and <hi>bloud.</hi> For had but this <hi>Thunder<g ref="char:EOLhyphen"/>cloud</hi> burſt, many <hi>ſhowers</hi> of bloud had
+<pb n="22" facs="tcp:43035:15"/>been poured down upon <hi>England.</hi> This was Satans ſtrange <hi>Engine,</hi> by which he would have attempted to have ſent up many <hi>bodies</hi> in a <hi>moment,</hi> nearer to <hi>heaven,</hi> that he might have drawn down many thouſand <hi>ſouls</hi> for <hi>ever</hi> into the bottom of <hi>hell.</hi> For ſurely, if the <hi>Head</hi> had been cut off, the <hi>body</hi> would have ſoon dy'd; if the <hi>Mother</hi> had been ſlain, the <hi>children</hi> of her boſome, that hung at her breaſts, would have preſently periſh'd: If the <hi>Light</hi> had been put forth by this poyſonous <hi>earth<g ref="char:EOLhyphen"/>damp,</hi> the people of the Land would not only have been wrapt in <hi>darknes,</hi> but have been ſtifled with this noiſom <hi>Fog.</hi> Yet out of this <hi>Fog</hi> would have iſſued that <hi>fire</hi> that would have ſet all <hi>England</hi> into a <hi>flame,</hi> and have burnt up the bodies of Gods deareſt and pretious Saints. But Satan was <hi>chain'd</hi> up by an Om<g ref="char:EOLhyphen"/>nipotent hand that he could not ſo much as <hi>ſpit fire,</hi> to fright the children of God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.Put off your <hi>ſhoes</hi> from your feet, and walk up to Mount <hi>Sion,</hi> and behold the Lord in his <hi>Glory,</hi> who hath vouchſaft this miraculous <hi>mercy</hi> and ſeaſonable <hi>ſalvati<g ref="char:EOLhyphen"/>on</hi> to his Saints. Lift up your eies to the <hi>hils</hi> from which the <hi>help</hi> of Gods <hi>Iſrael</hi>
+               <pb n="23" facs="tcp:43035:15"/>comes in all the times of their <hi>diſtreſs</hi> and <hi>danger.</hi> Get your ſouls ſublimed in hea<g ref="char:EOLhyphen"/>venly <hi>contemplations</hi> of the <hi>wiſdom, power</hi> and <hi>goodneſſe</hi> of that great God, whoſe wakefull Eye of <hi>Providence</hi> continually watcheth over his <hi>Church</hi> and choſen Ones. He that ſits upon a <hi>Throne</hi> of glory in the higheſt heavens, and with his All-diſcerning <hi>Eye</hi> diſcovers the <hi>depths</hi> of darkneſs and the <hi>deeds</hi> of men, brought forth this work of <hi>darkneſs</hi> into <hi>light,</hi> to the <hi>confuſion</hi> of his enemies, and the <hi>conſo<g ref="char:EOLhyphen"/>lation</hi> of all his faithfull Ones. <hi>This was the Lords doing, and how wonderfull ſhould it appear in our eyes!</hi> O come with humble <hi>reverence</hi> to the God of mercy, and caſt your ſelves down at his feet with lowlieſt <hi>admiration</hi> of his wonderfull goodneſs to an exceſſively ſinfull Land. O how ill have we requited the Lord for his <hi>love!</hi> And yet the Lord before he vouchſafed this favour, knew what our <hi>Requitall</hi> would be. O the admirable <hi>Kindneſſe</hi> of our God! The <hi>unworthineſſe</hi> of the ſons of men doth not obſtruct the way of thoſe ſweet <hi>mercies,</hi> that flow from the Fountain of <hi>free Love.</hi> O proſtrate your ſelves with humbleſt Adoration, at
+<pb n="24" facs="tcp:43035:16"/>the footſtool of the God of <hi>Glory,</hi> who in his wonderfull Works to the ſons of men, acts meerly out of free <hi>Grace.</hi> The Lord ſaw when the <hi>Deſign</hi> was laid, and ſaid, <hi>Hitherto ſhalt thou proceed and no further.</hi> It was the hand of God that drew the <hi>Curtain,</hi> and diſcovered what wickedneſſe was coucht in the <hi>dark.</hi> When the Land was ready to be overſpread with <hi>darkneſſe,</hi> 'twas the Lord that cover'd it with <hi>Light.</hi> When Popiſh Agents (thoſe bloudy <hi>Philiſtines</hi>) thought and hoped to have obſcur'd the Glory of <hi>Iſrael,</hi> the Lord ſtill pre<g ref="char:EOLhyphen"/>ſerv'd the <hi>Ark</hi> of his Truth. When the great red <hi>Dragon</hi> attempted to draw the <hi>Stars</hi> from <hi>Heaven,</hi> the great and mighty God caſt him into the bottom of <hi>hell.</hi> God cauſed the <hi>deſtruction</hi> plot<g ref="char:EOLhyphen"/>ted againſt his own People to fall upon the heads of their enemies. This is thy God, O <hi>Iſrael,</hi> this is thy Saviour, O <hi>Sion;</hi> this is thy <hi>Lord-Protectour,</hi> O <hi>England.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.Prepare your <hi>Hearts</hi> (in ſtead of <hi>Harps</hi>) to joyn in a gracious <hi>Conſort,</hi> to ſing forth the glorious <hi>Praiſes</hi> of the only <hi>wiſe</hi> and <hi>ſtrong</hi> God, your Savi<g ref="char:EOLhyphen"/>our.
+<pb n="25" facs="tcp:43035:16"/>Labour to <hi>winde</hi> up your hearts to the higheſt <hi>pitch</hi> of hearty praiſefull<g ref="char:EOLhyphen"/>neſſe and thankſgiving. Say with <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> Exod. 15.11. <hi>Who is like unto thee, O Lord, amongst the gods! Who is like unto thee, Glorious in Holineſſe, Fearfull in Praiſes, doing Wonders!</hi> To heighten your hearts into ſpirituall <hi>Raptures</hi> of Angelical <hi>Hallelujah's,</hi> conſider that <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> it ſelf, the Glorious <hi>Goſpel</hi> and Precious <hi>Ordinances</hi> of Jeſus Chriſt, are particular <hi>priviledges,</hi> which as to the <hi>Continuance</hi> and <hi>Preſervation</hi> of them, are wrapt up in this great <hi>Deliverance</hi> wherewith the mercifull hand of God hath <hi>Crown'd</hi> this ſinfull Nation. Had this helliſh <hi>Plot</hi> taken effect, Oh how had our pretious ſouls been <hi>poyſon'd</hi> with <hi>Popery!</hi> How had the <hi>Glorious, revi<g ref="char:EOLhyphen"/>ving, inriching, advancing</hi> Myſteries of the Goſpel, been <hi>lockt</hi> up in an unknown <hi>Tongue!</hi> How had our <hi>Waters</hi> been im<g ref="char:EOLhyphen"/>bitter'd with <hi>Gall</hi> and <hi>Wormwood,</hi> and our <hi>Rivers</hi> turned to <hi>bloud!</hi> How had our <hi>immortall</hi> ſouls been ſtarv'd to <hi>eter<g ref="char:EOLhyphen"/>nall</hi> death, for want of <hi>ſpirituall</hi> food! Oh how had we lived in <hi>darkneſſe,</hi> died in <hi>ſinne,</hi> and dropt into <hi>bell!</hi> Now
+<pb n="26" facs="tcp:43035:17"/>reckon up the precious <hi>Mercies</hi> and glo<g ref="char:EOLhyphen"/>rious <hi>Favours</hi> that have been brought unto <hi>England,</hi> and home to your own <hi>ſoules,</hi> by the <hi>door</hi> of this <hi>Deliverance,</hi> and you will ſee and ſay that you have infinite cauſe to praiſe the Lord to eter<g ref="char:EOLhyphen"/>nity. O you that have had your <hi>droop<g ref="char:EOLhyphen"/>ing</hi> ſpirits and <hi>dying</hi> hearts <hi>reviv'd</hi> and wonderfully <hi>refreſh't</hi> with the precious influences of grace, falling in Gods <hi>Or<g ref="char:EOLhyphen"/>dinances,</hi> What are theſe <hi>Ordinances</hi> worth? You that have had your <hi>hard</hi> and <hi>ſinfull</hi> hearts <hi>ſoftned</hi> and <hi>ſanctifi'd</hi> by the diſtilling dews of grace in the <hi>Goſpel</hi> of Chriſt, What is this <hi>Goſpel</hi> worth? You that have had your <hi>empty</hi> and <hi>humble</hi> hearts fill'd with a <hi>Heaven</hi> of glorious Joys in <hi>Communion</hi> with Je<g ref="char:EOLhyphen"/>ſus Chriſt, What is the injoyment of ſuch a ſweet, Evangelicall, Soul-raviſh<g ref="char:EOLhyphen"/>ing <hi>Fellowſhip</hi> with Chriſt Jeſus worth? O pretious <hi>Chriſt!</hi> O incomparable <hi>Mercies!</hi> O unutterable <hi>Joyes!</hi> You would not, no (I know) you would not loſe theſe glorious <hi>Goſpel-Favours,</hi> for ten thouſand worlds of Gold. O <hi>pretious</hi> ſouls, now you have <hi>precious</hi> Chriſt, communicating himſelf to you
+<pb n="27" facs="tcp:43035:17"/>in his bleſſed <hi>Ordinances!</hi> O ye <hi>humble</hi> hearts, now you have the Spirit of God <hi>inriching</hi> you with ſaving <hi>Graces,</hi> and <hi>breathing</hi> into the ſweeteſt ſacred <hi>Com<g ref="char:EOLhyphen"/>forts.</hi> O <hi>happy</hi> Saints, now the <hi>windows of Heaven</hi> are opened, and plenteous ſhowers of <hi>Grace,</hi> infinitely more pre<g ref="char:EOLhyphen"/>cious then ſhowers of <hi>Gold</hi> are poured out upon you. The dours of Gods <hi>Houſe</hi> ſtand open, and you may enjoy that one thing in which the <hi>deſires</hi> of the Saints are all <hi>ſumm'd up.</hi> You may dwell in the Houſe of the Lord, happily all the daies of your life, to behold the <hi>Beauty</hi> of the Lord, and to <hi>enquire</hi> in his holy Temple, <hi>Pſal.</hi> 27.4. Gods <hi>Trea<g ref="char:EOLhyphen"/>ſury</hi> is wide open, you may ſtore your ſelves with <hi>bleſſings.</hi> Gods <hi>Cabinet</hi> is unlock't, you may inrich your ſelves with <hi>Jewels</hi> and <hi>Pearls</hi> of <hi>price,</hi> with ſaving and ſanctifying <hi>Graces.</hi> The <hi>Foun<g ref="char:EOLhyphen"/>tain of Life</hi> is unſealed, and you may drink freely, and be ſatisfied with <hi>living Conſolations.</hi> Now God drops <hi>Pearls</hi> out of heaven, and ſtrews the earth with <hi>Mercies:</hi> O how <hi>pleaſant</hi> now are the <hi>paths of ſalvation,</hi> which God hath ſtrew'd all along with the <hi>flowers</hi> of his
+<pb n="28" facs="tcp:43035:18"/>
+               <hi>love.</hi> Bleſſed are you Beleevers, you now have a habitation in <hi>Jeruſalem,</hi> who might have been ſlain in the ſtreets of <hi>Rome:</hi> You dwell now in <hi>Sion,</hi> who might have liv'd in <hi>Sodom:</hi> You are now in a <hi>Heaven</hi> on this ſide <hi>Heaven,</hi> who might have been in a <hi>hell</hi> before you had been in <hi>hell.</hi> Oh what ſhall we render to the Lord for this his wonderfull good<g ref="char:EOLhyphen"/>neſſe to us: Let us even take up the <hi>Cup of ſalvation</hi> and praiſe the Name of the Lord. God hath inricht us with the <hi>gold of Sion,</hi> O come therefore and let us offer up unto him the <hi>Incenſe of Praiſe.</hi> O ye children of the Moſt high God, Behold the <hi>night</hi> is paſt, the <hi>darkneſſe</hi> of Popery, and the <hi>miſts</hi> of ſuperſtition are diſperſt and diſpel'd, and the <hi>Sun</hi> of the Goſpel (by a miracle of divine mercy) <hi>ſtands ſtill</hi> in our Horizon; your Light is continued, and the glory of the Lord reſteth upon you, <hi>Ariſe, ſhine.</hi> Trim up this day your ſhining <hi>Lamps</hi> of <hi>Joy,</hi> fill them with the ſweet <hi>Oyl</hi> of <hi>Love,</hi> and let them burn and blaze up to the Hea<g ref="char:EOLhyphen"/>vens in a holy <hi>Flame</hi> of <hi>Praiſe:</hi> Set them burning upon the <hi>Altars</hi> of your broken hearts, and they ſhall burn in the Temple
+<pb n="29" facs="tcp:43035:18"/>of the Lord for ever. <hi>Ariſe</hi> therefore ye Saints and <hi>ſhine</hi> on <hi>Earth:</hi> This <hi>De<g ref="char:EOLhyphen"/>liverance</hi> is but the <hi>ſhadow</hi> of a greater: For though you lie down at length and ſleep a while in your <hi>Graves,</hi> yet you ſhall <hi>Ariſe</hi> and <hi>ſhine</hi> in Heaven with a perfect Radi<g ref="char:EOLhyphen"/>ancy of incomprehenſible <hi>Glory</hi> throughout all Eternity, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
